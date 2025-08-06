@@ -35,7 +35,7 @@
 
 ---
 
-## 🔹  Public vs Private IP
+### ✅ Public vs Private IP
 
 | Type        | Range                                | Used For                  |
 |-------------|---------------------------------------|---------------------------|
@@ -45,7 +45,7 @@
 
 ---
 
-## Tools to Check Networking in Linux
+### ✅ Tools to Check Networking in Linux
 
 ```bash
 ip a             # Show IP addresses
