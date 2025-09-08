@@ -53,7 +53,7 @@ ip r             # Show routing table
 ping 8.8.8.8     # Check connectivity
 nslookup google.com  # DNS lookup
 netstat -tulnp   # Show listening ports and services
-
+```
 ---
 
 ## OSI Model - 7 Layers
@@ -195,7 +195,7 @@ Subnetting and CIDR are essential for organizing and managing IP addresses withi
 ```bash
 sudo apt install ipcalc
 ipcalc 192.168.1.0/25
-
+```
 ---
 
 ## DNS (Domain Name System)
@@ -251,7 +251,7 @@ When you type a website like `example.com`, the process looks like this:
 ```bash
 dig example.com
 dig +short google.com
-
+```
 ---
 
 ## Routing & switching
@@ -306,7 +306,7 @@ It connects **multiple networks together** and routes data between them.
 ### 🧪 View Routing Table
 ```bash
 ip route show
-
+```
 
 
 
