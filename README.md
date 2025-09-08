@@ -200,8 +200,7 @@ ipcalc 192.168.1.0/25
 
 ## DNS (Domain Name System)
 
-DNS (Domain Name System) is a critical component of networking. It translates human-readable domain names (like `google.com`) into IP addresses (like `142.250.182.206`.
----
+DNS (Domain Name System) is a critical component of networking.
 
 ### 🔹What is DNS?
 
@@ -256,8 +255,7 @@ dig +short google.com
 
 ## Routing & switching
 
-Routing and Switching are core components of network communication. DevOps professionals often work with both — especially in cloud networking, virtual private clouds.
----
+Routing and Switching are core components of network communication.
 
 ### 🔹What is Switching?
 
